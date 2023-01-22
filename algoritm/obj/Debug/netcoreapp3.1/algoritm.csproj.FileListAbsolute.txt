@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.exe
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.deps.json
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.runtimeconfig.json
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.dll
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\bin\Debug\netcoreapp3.1\algoritm.pdb
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.dll
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.pdb
+C:\Users\ASUS\source\repos\giris algoritma\algoritm\obj\Debug\netcoreapp3.1\algoritm.genruntimeconfig.cache
